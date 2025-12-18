@@ -1,3 +1,4 @@
 .env
 api_secrets.txt
+bronze/
 # These files have sensitive API keys and should not be shared publicly.
