@@ -1,7 +1,11 @@
 Hey! I am ingesting the data in this file.
+<<<<<<< HEAD
 Hello
 <<<<<<< HEAD
 I am master branch.
 =======
 
 >>>>>>> puli_feature_1
+=======
+Hel
+>>>>>>> phaneendra_feature_1
