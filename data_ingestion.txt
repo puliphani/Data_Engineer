@@ -7,5 +7,4 @@ I am master branch.
 
 >>>>>>> puli_feature_1
 =======
-Hel
->>>>>>> phaneendra_feature_1
+I am ingesting the big data.
