@@ -6,5 +6,5 @@ I love ingesting the data.
 Hello am phaneendra branch.
 I am ingesting the batch data.
 =======
-I am a serious developer.
+
 >>>>>>> e46d3b4 (development)
